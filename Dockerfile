@@ -1,1 +1,1 @@
-FROM pgrouting/pgrouting
+FROM hasura/graphql-engine:v1.3.2
